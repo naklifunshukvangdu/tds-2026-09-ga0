@@ -1,0 +1,5 @@
+﻿.env
+.env.*
+**/auth.json
+**/termlog-config/
+*.cast.jwt
